@@ -1,1 +1,1 @@
-# Ayush-Prabhu-Final-Project
+# Solana-Bootcamp-Final-Project
